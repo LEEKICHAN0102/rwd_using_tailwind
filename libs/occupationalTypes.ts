@@ -8,6 +8,10 @@ export const OccupationalType = [
     label: "시그너스"
   },
   {
+    value: "heroes",
+    label: "영웅"
+  },
+  {
     value: "resistance",
     label: "레지스탕스"
   },
@@ -18,6 +22,10 @@ export const OccupationalType = [
   {
     value: "leff",
     label: "레프"
+  },
+  {
+    value: "anima",
+    label: "아니마"
   },
   {
     value: "transcendent",

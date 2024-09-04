@@ -11,6 +11,13 @@ const config: Config = {
       fontFamily: {
         maple: ['maple', 'sans-serif'],
       },
+      colors: {
+        "warrior": "#F06C70",
+        "archer" : "#ACF06C",
+        "wizard" : "#6CD5F0",
+        "bandit" : "#9B2CF5",
+        "pirate" : "#8B8FAE",
+      }
     },
   },
   plugins: [],

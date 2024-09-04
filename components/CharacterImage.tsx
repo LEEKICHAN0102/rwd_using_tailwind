@@ -6,7 +6,11 @@ interface IProps {
 
 export default function CharacterImage({ src }: IProps) {
   return(
-    <Image src={`/image${src}`} alt={src} width={500}
-    height={500} />
+    <Image 
+      src={`/image${src}`} 
+      alt={src} 
+      width={500}
+      height={500} 
+    />
   )
 }
